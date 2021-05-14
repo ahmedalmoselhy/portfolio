@@ -60,7 +60,7 @@
                         <br>
                         I worked on some projects such as <a href="https://github.com/ahmedalmoselhy/Curey-HealthCareApp-Backend" style="color: inherit;"><b>Curey</b></a>, which was my graduation project and
                         <a href="https://github.com/ahmedalmoselhy/UniOne" style="color: inherit;"><b>UniOne</b></a>, which is something I worked on in my free time,
-                        
+
                     </h5>
                 </div>
             </div>
