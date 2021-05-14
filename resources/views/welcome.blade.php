@@ -22,18 +22,27 @@
             }
         </style>
     </head>
-    <body class="antialiased bg-gray-100 dark:bg-gray-900">
+    <body class="antialiased bg-gray-100 dark:bg-gray-900" style="color: #f7fafc">
         <div class="container justify-center min-h-screen  sm:items-center py-4 sm:pt-0">
             <br>
             <br>
             <br>
             <br>
-            <h1 style="color: #f7fafc" class="text-center">
+            <h1 class="text-center">
                 <a href="http://ahmedhani.me" style="color: inherit; text-decoration: none;">
                     Ahmed Hani
                 </a>
             </h1>
-
+            <br>
+            <h3 class="text-center">
+                Reader - Web Developer - Gamer
+            </h3>
+            <br>
+            <h5 class="text-center">
+                Hi, I'm glad you arrived here, that means you're interested in what I do, I'm a Software Engineer.
+                Currently I'm focusing on Backend web development using <a href="https://laravel.com" style="color: inherit;"><b>Laravel (PHP)</b></a>
+                
+            </h5>
         </div>
     <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.1/dist/js/bootstrap.bundle.min.js"
             integrity="sha384-gtEjrD/SeCtmISkJkNUaaKMoLD0//ElJ19smozuHV6z3Iehds+3Ulb9Bn9Plx0x4"
