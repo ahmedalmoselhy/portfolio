@@ -16,6 +16,8 @@
         <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.1/dist/css/bootstrap.min.css"
               rel="stylesheet" integrity="sha384-+0n0xVW2eSR5OomGNYDnhzAbDsOXxcvSN1TPprVMTNDbiYZCxYbOOl7+AMvyTG2x"
               crossorigin="anonymous">
+        <link rel="stylesheet" href="../css/app.css">
+        <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
         <style>
             body {
                 font-family: 'Nunito', sans-serif;
@@ -38,11 +40,40 @@
                 Reader - Web Developer - Gamer
             </h3>
             <br>
-            <h5 class="text-center">
-                Hi, I'm glad you arrived here, that means you're interested in what I do, I'm a Software Engineer.
-                Currently I'm focusing on Backend web development using <a href="https://laravel.com" style="color: inherit;"><b>Laravel (PHP)</b></a>
-                
-            </h5>
+            <div class="row">
+                <div class="col-4">
+                    <img src="image.jpg" alt="Sad you can't see how I look" class="img-fluid rounded-circle">
+                </div>
+                <div class="col-8">
+                    <br>
+                    <br>
+                    <br>
+                    <br>
+                    <h5 >
+                        Hi, I'm glad you arrived here, that means you're interested in what I do, I'm a Software Engineer.
+                        Currently I'm focusing on Backend web development using
+                        <a href="https://laravel.com" style="color: inherit;"><b>Laravel (PHP)</b></a>.
+                        <br>
+                        <br>
+                        I graduated from Computers and Systems Department - Faculty of Engineering - Mansoura University on 2020
+                        <br>
+                        <br>
+                        I worked on some projects such as <a href="https://github.com/ahmedalmoselhy/Curey-HealthCareApp-Backend" style="color: inherit;"><b>Curey</b></a>, which was my graduation project and
+                        <a href="https://github.com/ahmedalmoselhy/UniOne" style="color: inherit;"><b>UniOne</b></a>, which is something I worked on in my free time,
+                        
+                    </h5>
+                </div>
+            </div>
+
+            <div class="footer fixed-bottom">
+                <h5 class="text-center">
+                    You can find me at :
+                    <a href="https://facebook.com/ahmedhanislm" style="color: indianred; text-decoration: none;">Facebook</a> -
+                    <a href="https://twitter.com/_anubixo" style="color: indianred; text-decoration: none;">Twitter</a> -
+                    <a href="https://github.com/ahmedalmoselhy" style="color: indianred; text-decoration: none;">Github</a> -
+                    <a href="https://linkedin.com/ahmedalmoselhy" style="color: indianred; text-decoration: none;">Linkedin</a>
+                </h5>
+            </div>
         </div>
     <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.1/dist/js/bootstrap.bundle.min.js"
             integrity="sha384-gtEjrD/SeCtmISkJkNUaaKMoLD0//ElJ19smozuHV6z3Iehds+3Ulb9Bn9Plx0x4"
